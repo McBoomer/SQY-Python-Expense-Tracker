@@ -16,8 +16,9 @@ this project  shows knowlege in:
 - sql  
 
 ## Demo video 
-demo of the program running:  
-https://github.com/user-attachments/assets/069bd69b-b80c-43a5-974e-28bcc0cfd0af
+demo of the program running:
+
+https://github.com/user-attachments/assets/dea47a01-b637-48d3-a67a-0afe5fb09476
 
 ## Features  
 - dark github style theme  
