@@ -15,11 +15,11 @@ the same data is sorted into its category and shown as a bar graph on the right 
 
 this project  shows knowlege in:
 - python
-- pyqt6
+- sql / sqllite
 - ax
 - matplotplib
 - css
-- sql
+- pyqt6
 
 ## Features
 - dark github style theme
