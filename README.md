@@ -1,11 +1,11 @@
 # Expense Tracker App
 
-## Overview
-
 ## Demo video
 demo of the program running:
 
 https://github.com/user-attachments/assets/dea47a01-b637-48d3-a67a-0afe5fb09476
+
+## Overview
 
 this is a simple python user interface that takes in user data with input fields and confirms it with buttons, it has a github dark theme look
 
