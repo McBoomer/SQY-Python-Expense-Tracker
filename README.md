@@ -1,47 +1,48 @@
-# Expense Tracker App  
+# Expense Tracker App
 
-## Overview  
-this is a simple python user interface that takes in user data with input fields and confirms it with buttons, it has a github dark theme look  
+## Overview
 
-user info is saved into  a `.db` file using sql as the system. the info is then shown in a table  
-
-the same data is sorted into its category and shown as a bar graph on the right side of the ui. this way users can track spending easy with a basic tool  
-
-this project  shows knowlege in:  
-- python  
-- pyqt6  
-- ax  
-- matplotplib  
-- css  
-- sql  
-
-## Demo video 
+## Demo video
 demo of the program running:
 
 https://github.com/user-attachments/assets/dea47a01-b637-48d3-a67a-0afe5fb09476
 
-## Features  
-- dark github style theme  
-- add, delete and view expenses with input fields  
-- saves data  in a sqlite `.db` file  
-- table shows all expenses  
-- bar graph shows spending by category  
-- "today" button to quick set date  
-- table on  the left and chart on the right  
+this is a simple python user interface that takes in user data with input fields and confirms it with buttons, it has a github dark theme look
 
-## Tech Stack  
-- python  
-- pyqt6  
-- sqlite (sql)  
-- matplotplib  
-- css  (qt stylesheets)
+user info is saved into  a `.db` file using sql as the system. the info is then shown in a table
+
+the same data is sorted into its category and shown as a bar graph on the right side of the ui. this way users can track spending easy with a basic tool
+
+this project  shows knowlege in:
+- python
+- pyqt6
+- ax
+- matplotplib
+- css
+- sql
+
+## Features
+- dark github style theme
+- add, delete and view expenses with input fields
+- saves data  in a sqlite `.db` file
+- table shows all expenses
+- bar graph shows spending by category
+- "today" button to quick set date
+- table on  the left and chart on the right
+
+## Tech Stack
+- python
+- pyqt6
+- sqlite (sql)
+- matplotplib
+- css  (qt stylesheets0
 
 ## License
 This project  is open source under the [MIT License](https://opensource.org/license/mit)
 
-## Installation  
+## Installation
 
-copy this  repo and install deps:  
+copy this  repo and install deps:
 
 ```bash
 git clone https://github.com/your-username/expense-tracker-app.git
